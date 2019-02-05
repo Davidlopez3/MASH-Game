@@ -1,0 +1,30 @@
+Example: <input name="answer_1[]" type="text">
+
+<input name="answer_1[]type="Authoritarian"">
+          <input name="answer_1[]type="Econmic equity"">
+          <input name="answer_1[]type="Libertarian""> 
+          <input name="answer_1[]type="Economic Freedom"">
+
+<input name="answer_2[]">Arts
+	  <input name="answer_2[]type="Arts"">		
+          <input name="answer_2[]type="Science"">		
+          <input name="answer_2[]type="Faith"">		
+          <input name="answer_2[]type="useless knowlage for fun ocations"">	
+
+<input name="answer_2[]">Arts
+          <input name="answer_2[]">Science
+          <input name="answer_2[]">Faith
+          <input name="answer_2[]">useless knowlage for fun ocations 	
+
+
+
+<input name="answer_3[]">Baseball
+          <input name="answer_3[]">Futball
+          <input name="answer_3[]">Basketball
+          <input name="answer_3[]">N/A
+
+
+	  <input name="answer_3[]type="Baseball"">
+          <input name="answer_3[]type="Futball"">
+          <input name="answer_3[]type="Basketball"">
+          <input name="answer_3[]type="N/A""> 
