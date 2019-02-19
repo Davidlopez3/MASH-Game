@@ -1,7 +1,7 @@
 /* Body styling */
 body {
-	background: #713e94;
-	color: #9C0D27;
+	background: #7F000F;
+	color: #0018D7;
 	font-family: Helvetica, Arial;
 	font-size: 27px;
 	font-weight: 300;
@@ -15,7 +15,7 @@ body {
 /* Heading Styles */
 h1 {
 	font-size: 60px;
-	color: #1702C5;
+	color: #FF5F00;
 	text-align: center;
 }
 
@@ -32,7 +32,7 @@ h1 {
 	background: transparent;
 	border: 3px solid #100687;
 	border-radius: 17px;
-	color: #229202;
+	color: #FF5F00;
 	cursor: pointer;
 	display: block;
 	font-size: 25px;
@@ -68,7 +68,7 @@ h1 {
 .choice-bucket input {
 	border: 0;
 	border-radius: 6px;
-	color: #DEEC00;
+	color: #2500E3;
 	font-size: 18px;
 	margin: 15px 4%;
 	outline: 0;
@@ -78,7 +78,16 @@ h1 {
 }
 
 .choice-bucket label ~ input {
+	
   margin-top: 0;
+
+<label for="formAnswer1">Enter an answer</label><input name="answer_1[]" id="formAnswer1">
+<label for="formAnswer2">Enter an answer</label><input name="answer_2[]" id="formAnswer2">
+<label for="formAnswer3">Enter an answer</label><input name="answer_3[]" id="formAnswer3">
+<label for="formAnswer4">Enter an answer</label><input name="answer_4[]" id="formAnswer4">
+<label for="formAnswer5">Enter an answer</label><input name="answer_5[]" id="formAnswer5">
+
+	
 }
 
 .highlight {
