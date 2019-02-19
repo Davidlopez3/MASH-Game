@@ -1,7 +1,7 @@
 /* Body styling */
 body {
 	background: #7F000F;
-	color: #0018D7;
+	color: #D77E00;
 	font-family: Helvetica, Arial;
 	font-size: 27px;
 	font-weight: 300;
@@ -67,8 +67,8 @@ h1 {
 
 .choice-bucket input {
 	border: 0;
-	border-radius: 6px;
-	color: #2500E3;
+	border-radius: 29px;
+	color: #020000;
 	font-size: 18px;
 	margin: 15px 4%;
 	outline: 0;
